@@ -1,2 +1,2 @@
-# exHTML-CSS
- Exercícios de html e css
+# HTML-CSS
+ Exercícios e desafios de html e css
